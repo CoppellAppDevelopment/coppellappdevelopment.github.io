@@ -1,5 +1,7 @@
 /*
+
 ************************************************* 
+
     Template Author : pixelhint.com
     Author Email    : contact@pixelhint.com
     Template Name   : Heros
@@ -95,7 +97,7 @@ header{
     width: 100%;
     height: 90px;
     background: #ffffff;
-    position: fixed;
+    position: relative;
 }
 
 header .logo{
