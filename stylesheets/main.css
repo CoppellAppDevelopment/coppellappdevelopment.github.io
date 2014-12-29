@@ -97,7 +97,7 @@ header{
     width: 100%;
     height: 90px;
     background: #ffffff;
-    position: relative;
+    position: fixed;
 }
 
 header .logo{
