@@ -1,7 +1,5 @@
 /*
-
 ************************************************* 
-
     Template Author : pixelhint.com
     Author Email    : contact@pixelhint.com
     Template Name   : Heros
@@ -161,7 +159,7 @@ header nav ul .selected{
 
 #slides .slide .caption{  
     width: 100%;
-    position: relative;
+    position: absolute;
     top: 50%;
     color: #5a5a5a;
     text-align: center;
@@ -179,7 +177,7 @@ header nav ul .selected{
 
 .slider_wrapper .rslides_tabs{
     width: 100%;
-    position: relative;
+    position: absolute;
     text-align: center;
     bottom: 80px;
     z-index: 9999;
@@ -348,7 +346,7 @@ header nav ul .selected{
 }
 
 .projects_list ul li a span{
-    position: relative;
+    position: absolute;
     height: 124px;
     top: 50%;
     margin-top: -62px;
