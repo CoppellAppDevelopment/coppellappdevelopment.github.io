@@ -2,4 +2,4 @@
 
 Check out [coppellappdevelopment.com](http://coppellappdevelopment.com) to see announcements, check updates, contact our team, or join the club!
 
-This website is hosted on GitHub Pages. Thanks, GitHub!
+*This website is hosted on GitHub Pages. Thanks, GitHub!*
